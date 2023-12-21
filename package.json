@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://eas1Iy.github.io/",
+  "homepage": "https://eas1Iy.github.io/portfolio",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d portfolio"
   },
   "keywords": [],
   "author": "",
